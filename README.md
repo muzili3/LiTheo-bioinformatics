@@ -58,6 +58,15 @@ Below are selected projects demonstrating my bioinformatics analysis capabilitie
 
 ---
 
+### 📊 Example Results
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/TCGA-LUAD-RNAseq-Analysis/figures/volcano_plot.png" width="48%">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/TCGA-LUAD-RNAseq-Analysis/figures/pca_plot.png" width="48%">
+</p>
+
+---
+
 ### 📌 Single-cell RNA-seq Projects
 
 - [SingleCell-Seurat-Pipeline](https://github.com/your-username/SingleCell-Seurat-Pipeline)
