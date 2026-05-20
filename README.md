@@ -51,7 +51,7 @@ Below are selected projects demonstrating my bioinformatics analysis capabilitie
 
 ### 📌 RNA-seq Analysis Project
 
-#### 🧬 RNAseq Analysis Pipeline: [RNAseq-Analysis](https://github.com/muzili3/LiTheo-bioinformatics/tree/main/RNAseq-Analysis/data_analysis.r)
+#### 🧬 RNAseq Analysis Pipeline: [RNAseq-Analysis](https://github.com/muzili3/LiTheo-bioinformatics/tree/main/RNAseq_Analysis/data_analysis.r)
 
 **Pipeline Overview:**
 
@@ -60,28 +60,63 @@ Raw Counts → Quality Control (QC) → Normalization (DESeq2 / edgeR) → Diffe
 #### 📊 Some Example Results
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/RNAseq-Analysis/figures/volcano_plot.png" width="48%">
-  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/RNAseq-Analysis/figures/kegg_plot.png" width="48%">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/RNAseq_Analysis/figures/volcano_plot.png" width="48%">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/RNAseq_Analysis/figures/kegg_plot.png" width="48%">
 </p>
 
 ---
 
 
-### 📌 Single-cell RNA-seq Projects
+### 📌 Single-cell RNA-seq Analysis Project
 
-- [SingleCell-Seurat-Pipeline](https://github.com/your-username/SingleCell-Seurat-Pipeline)
+#### 🧬 Single-cell Analysis Pipeline: [SingleCell-Seurat-Pipeline](https://github.com/muzili3/LiTheo-bioinformatics/tree/main/Single_cell_RNAseq_Analysis/data_analysis.r)
+
+**Pipeline Overview:**
+
+Raw FASTQ / Matrix Data → Quality Control (QC) → Normalization → Highly Variable Gene Detection → Dimensionality Reduction (PCA / UMAP) → Clustering → Cell Type Annotation → Marker Gene Identification → Visualization
+
+#### 📊 Some Example Results
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/Single_cell_RNAseq_Analysis/figures/umap_plot.png" width="48%">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/Single_cell_RNAseq_Analysis/figures/marker_heatmap.png" width="48%">
+</p>
 
 ---
 
-### 📌 Survival & Clinical Analysis
+### 📌 Survival & Clinical Analysis Project
 
-- [Survival-Analysis-Pipeline](https://github.com/your-username/Survival-Analysis-Pipeline)
+#### 🧬 Survival Analysis Pipeline: [Survival-Analysis-Pipeline](https://github.com/muzili3/LiTheo-bioinformatics/tree/main/Survival_&_Clinical_Analysis/survival_analysis.r)
+
+**Pipeline Overview:**
+
+Clinical Data Integration → Gene Expression Filtering → Survival Stratification → Kaplan-Meier Survival Analysis → Cox Regression Analysis → Risk Score Modeling → Prognostic Biomarker Identification → Visualization
+
+#### 📊 Some Example Results
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/Survival_&_Clinical_Analysis/figures/km_plot.png" width="48%">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/Survival_&_Clinical_Analysis/figures/cox_forest_plot.png" width="48%">
+</p>
 
 ---
 
-### 📌 Immune & Pathway Analysis
+### 📌 Immune & Pathway Analysis Project
 
-- [Immune-Infiltration-Analysis](https://github.com/your-username/Immune-Infiltration-Analysis)
+#### 🧬 Immune & Pathway Analysis Pipeline: [Immune-Infiltration-Analysis](https://github.com/muzili3/LiTheo-bioinformatics/tree/main/Immune_&_Pathway_Analysis/immune_analysis.r)
+
+**Pipeline Overview:**
+
+Gene Expression Matrix → Immune Cell Infiltration Estimation → Immune Scoring → Differential Immune Gene Analysis → GO / KEGG Enrichment → GSEA Pathway Analysis → Biological Interpretation → Visualization
+
+#### 📊 Some Example Results
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/Immune_&_Pathway_Analysis/figures/immune_heatmap.png" width="48%">
+  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/Immune_&_Pathway_Analysis/figures/gsea_plot.png" width="48%">
+</p>
+
+---
 
 ---
 
