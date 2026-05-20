@@ -51,7 +51,7 @@ Below are selected projects demonstrating my bioinformatics analysis capabilitie
 
 ### 📌 RNA-seq Analysis Project
 
-#### 🧬 RNAseq Analysis Pipeline: [RNAseq-Analysis](https://github.com/muzili3/LiTheo-bioinformatics/tree/main/RNAseq-Analysis)
+#### 🧬 RNAseq Analysis Pipeline: [RNAseq-Analysis](https://github.com/muzili3/LiTheo-bioinformatics/tree/main/RNAseq-Analysis/data_analysis.r)
 
 **Pipeline Overview:**
 
