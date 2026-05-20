@@ -58,23 +58,11 @@ Below are selected projects demonstrating my bioinformatics analysis capabilitie
 
 **Pipeline Overview:**
 
-
-Raw Counts
-↓
-Quality Control (QC)
-↓
-Normalization (DESeq2 / edgeR)
-↓
-Differential Expression Analysis
-↓
-Functional Enrichment (GO / KEGG)
-↓
-Visualization
-
+Raw Counts → Quality Control (QC) → Normalization (DESeq2 / edgeR) → Differential Expression Analysis → Functional Enrichment (GO / KEGG) → Visualization
 
 ---
 
-### 📊 Example Results
+### 📊 Some Example Results
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/TCGA-LUAD-RNAseq-Analysis/figures/volcano_plot.png" width="48%">
