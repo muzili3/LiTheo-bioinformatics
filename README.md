@@ -118,8 +118,3 @@ Gene Expression Matrix → Immune Cell Infiltration Estimation → Immune Scorin
 
 ---
 
----
-
-# Methodology Overview
-
-Typical workflow used across my projects:
