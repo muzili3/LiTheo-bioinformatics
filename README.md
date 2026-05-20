@@ -1,5 +1,81 @@
-# LiTheo-bioinformatics
-Bioinformatics pipelines for RNA-seq, single-cell analysis, and biological data visualization.
-# Hi, I'm Tao Li 👋
+# Hi, I'm Theo Li 👋
 
 Bioinformatics Analyst | RNA-seq | Cancer Genomics | Single-cell Analysis
+
+---
+
+# About Me
+
+I am a bioinformatics analyst with a strong background in genetics and biological data analysis.
+
+My work focuses on transforming high-throughput biological data into meaningful biological insights through reproducible computational pipelines and statistical analysis.
+
+### Research Interests
+
+- RNA-seq analysis
+- Cancer genomics
+- Single-cell transcriptomics
+- Biomarker discovery
+- Statistical genomics
+
+---
+
+# Technical Skills
+
+### Programming
+- R
+- Python
+- Bash / Linux
+
+### Bioinformatics Tools
+- DESeq2
+- edgeR
+- limma
+- Seurat
+- Scanpy
+- clusterProfiler
+- GSEA
+
+### Visualization
+- ggplot2
+- matplotlib
+- ComplexHeatmap
+
+---
+
+# Featured Projects
+
+Below are selected projects demonstrating my bioinformatics analysis capabilities.
+
+> More projects will be continuously added and updated.
+
+---
+
+### 📌 RNA-seq Analysis Projects
+
+- [TCGA-LUAD-RNAseq-Analysis](https://github.com/your-username/TCGA-LUAD-RNAseq-Analysis)
+- [GEO-Differential-Expression-Analysis](https://github.com/your-username/GEO-Differential-Expression-Analysis)
+
+---
+
+### 📌 Single-cell RNA-seq Projects
+
+- [SingleCell-Seurat-Pipeline](https://github.com/your-username/SingleCell-Seurat-Pipeline)
+
+---
+
+### 📌 Survival & Clinical Analysis
+
+- [Survival-Analysis-Pipeline](https://github.com/your-username/Survival-Analysis-Pipeline)
+
+---
+
+### 📌 Immune & Pathway Analysis
+
+- [Immune-Infiltration-Analysis](https://github.com/your-username/Immune-Infiltration-Analysis)
+
+---
+
+# Methodology Overview
+
+Typical workflow used across my projects:
