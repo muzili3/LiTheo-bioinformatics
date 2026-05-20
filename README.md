@@ -62,7 +62,7 @@ Raw Counts → Quality Control (QC) → Normalization (DESeq2 / edgeR) → Diffe
 
 ---
 
-### 📊 Some Example Results
+#### 📊 Some Example Results
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/TCGA-LUAD-RNAseq-Analysis/figures/volcano_plot.png" width="48%">
@@ -71,18 +71,6 @@ Raw Counts → Quality Control (QC) → Normalization (DESeq2 / edgeR) → Diffe
 
 ---
 
-### 📌 RNA-seq Analysis Projects
-
-- [RNAseq-Analysis](https://github.com/muzili3/LiTheo-bioinformatics/tree/main/RNAseq-Analysis)
-
-### 📊 Example Results
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/TCGA-LUAD-RNAseq-Analysis/figures/volcano_plot.png" width="48%">
-  <img src="https://raw.githubusercontent.com/muzili3/LiTheo-bioinformatics/main/TCGA-LUAD-RNAseq-Analysis/figures/kegg_plot.png" width="48%">
-</p>
-
----
 
 ### 📌 Single-cell RNA-seq Projects
 
