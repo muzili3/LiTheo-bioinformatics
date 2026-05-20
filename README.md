@@ -53,7 +53,7 @@ Below are selected projects demonstrating my bioinformatics analysis capabilitie
 
 ### 📌 RNA-seq Analysis Projects
 
-- [TCGA-LUAD-RNAseq-Analysis](https://github.com/your-username/TCGA-LUAD-RNAseq-Analysis)
+- [TCGA-LUAD-RNAseq-Analysis](https://github.com/muzili3/LiTheo-bioinformatics/tree/main/TCGA-LUAD-RNAseq-Analysis)
 - [GEO-Differential-Expression-Analysis](https://github.com/your-username/GEO-Differential-Expression-Analysis)
 
 ---
