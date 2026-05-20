@@ -47,8 +47,6 @@ My work focuses on transforming high-throughput biological data into meaningful 
 
 Below are selected projects demonstrating my bioinformatics analysis capabilities.
 
-> More projects will be continuously added and updated.
-
 ---
 
 ### 📌 RNA-seq Analysis Project
@@ -60,7 +58,7 @@ Below are selected projects demonstrating my bioinformatics analysis capabilitie
 
 Raw Counts → Quality Control (QC) → Normalization (DESeq2 / edgeR) → Differential Expression Analysis → Functional Enrichment (GO / KEGG) → Visualization
 
----
+
 
 #### 📊 Some Example Results
 
